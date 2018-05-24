@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="app_may_23 Table" language="en" table="sn_app_may_23_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>app_may_23 Table</label>
+            <language>en</language>
+            <name>sn_app_may_23_table</name>
+            <plural>app_may_23 Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-23 06:25:22</sys_created_on>
+            <sys_id>083330b0739a13001c233096fbf6a713</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>app_may_23 Table</sys_name>
+            <sys_package display_value="app_may_23" source="sn_app_may_23">13237c70739a13001c233096fbf6a73a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="app_may_23">13237c70739a13001c233096fbf6a73a</sys_scope>
+            <sys_update_name>sys_documentation_sn_app_may_23_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-23 06:25:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
